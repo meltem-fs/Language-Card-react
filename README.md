@@ -1,5 +1,8 @@
 [CLİCK HERE TO SEE](https://tubular-conkies-8689fb.netlify.app)
 
+![Animation-language](https://user-images.githubusercontent.com/101893145/195976537-648046e4-3be8-4c3c-84fe-ea8c4dbd933a.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
